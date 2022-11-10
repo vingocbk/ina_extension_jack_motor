@@ -106,6 +106,90 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ina_extension_jack_motor\Design Rule Check - ina_extension_jack_motor_pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ina_extension_jack_motor\ina_extension_jack_motor_pcb.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -318,7 +402,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet Professional M1212nf MFP (Copy 2)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
